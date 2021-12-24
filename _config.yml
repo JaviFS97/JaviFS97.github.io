@@ -20,7 +20,8 @@ timezone: Europe/Madrid
 
 title: JaviFS97                        # the main title
 
-tagline: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an . # it will display as the sub-title
+tagline: '¡Bienvenido! Soy Javier Fernández, Ingeniero Informático + Máster Ciberseguridad.' # it will display as the sub-title
+tagline2: 'En este blog recopilo todas mis investigaciones sobre el ámbito de la ciberseguridad.' 
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
