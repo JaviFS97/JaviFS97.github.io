@@ -20,7 +20,7 @@ timezone: Europe/Madrid
 
 title: JaviFS97                        # the main title
 
-tagline: '¡Bienvenido! Soy Javier Fernández, Ingeniero Informático + Máster Ciberseguridad.' # it will display as the sub-title
+tagline: '¡Bienvenido! Soy Javier, Ingeniero Informático + Máster Ciberseguridad.' # it will display as the sub-title
 tagline2: 'En este blog recopilo mis investigaciones sobre ciberseguridad.' 
 
 description: >-                        # used by seo meta and the atom feed
