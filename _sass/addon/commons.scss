@@ -1303,6 +1303,11 @@ $sidebar-display: "sidebar-display";
 
 /* Sidebar is visible */
 @media all and (min-width: 850px) {
+  /* [CHANGED] --> Incluido para que aparezca el swither en el topbar cuando desaparece el sidebar*/
+  .ocultar-switcher-modo {
+    display: none;
+  }
+
   /* Solved jumping scrollbar */
   html {
     overflow-y: scroll;
