@@ -30,6 +30,7 @@ En esta sección se han recopilado algunas de las principales herramientas usada
   * [Caso de uso](#caso-de-uso-1)
   * [Comandos más importantes](#comandos-más-importantes)
 - [Maltego](#maltego)
+  * [¿Qué es un transformador?](#qué-es-un-transformador)
   * [¿Qué es un grafo?](#qué-es-un-grafo)
   * [Caso de uso](#caso-de-uso-2)
 - [Recon-ng](#recon-ng)
@@ -191,7 +192,7 @@ Esta salida es la genérica, es decir, por terminal. Pero el parámetro `-f` per
 # Maltego
 Es una herramienta de inteligencia de código abierto (OSINT) y de análisis de enlaces gráficos para recopilar y conectar información para tareas de investigación.
 
-###¿Qué es un transformador?
+## ¿Qué es un transformador?
 Sirven para la recopilación OSINT de fuentes comunes en Internet, incluidas las consultas en servidores DNS, motores de búsqueda, redes sociales, diversas API y otras fuentes.
 
 ## ¿Qué es un grafo?
