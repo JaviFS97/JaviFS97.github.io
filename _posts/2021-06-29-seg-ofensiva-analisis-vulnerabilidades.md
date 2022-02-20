@@ -3,7 +3,7 @@ title: Análisis de vulnerabilidades
 author:
   name: Javier Fernández Santos
   link: https://github.com/JaviFS97
-date: 2021-06-21 13:35:00 +0800
+date: 2021-06-29 11:35:00 +0800
 categories: [Ciberseguridad, Seguridad Ofensiva]
 tags: [Pentesting, CVE, CVEDetails, CVSS, CPE, NMAP, Nessus]
 math: true
