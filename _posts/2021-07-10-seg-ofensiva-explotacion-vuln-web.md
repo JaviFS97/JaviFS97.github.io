@@ -119,6 +119,7 @@ Para ello, ejecutamos el comando `skipfish -YO -o <ruta_salida_informe> <ruta_we
 _Escaneo activo con skipfish_
 
 Para finalizar el escaneo (puede llevar horas) podemos hacer ctrl+c. Esto generará un informe .html en la <ruta_salida_informe>. En este informe podemos encontrar todo tipo de información, desde tipos de archivos que haya encontrado hasta vulnerabilidades.
+
 ![Informe escaneo skipfish]({{ page.assets_path}}/skipfish2.png){: .shadow style="min-width: 70%;" }
 _Informe escaneo skipfish_
 
