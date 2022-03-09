@@ -1,8 +1,8 @@
 ---
-title: About
+title: About me
 icon: fas fa-info-circle
 order: 4
+assets_path: /assets/img/posts/about
 ---
-
-
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+![CV]({{page.assets_path}}/CVimage.png){: .shadow style="min-width: 70%;" }
+_CV_
