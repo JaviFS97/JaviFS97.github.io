@@ -8,7 +8,7 @@ categories: [Ciberseguridad, Seguridad Ofensiva]
 tags: [Pentesting, OSSTMM]
 math: true
 mermaid: true
-assets_path: /assets/img/posts/20190806/ethical-hacking.jpg
+assets_path: /assets/img/posts/20210525
 
 image:
   src: /assets/img/posts/20210524/ethical-hacking.jpg
@@ -21,6 +21,9 @@ La protección de los sistemas requiere una comprensión amplia de las estrategi
 
 En este curso recopilaremos las principales herramientas y técnicas aplicadas en cada uno de las fases del pentesting.
 
+
+![Maltego grafo]({{ page.assets_path}}/Maltego.png){: .shadow style="min-width: 70%;" }
+_Maltego grafo_
 
 # Índice y Estructura Principal
 - [Introducción](#introducción)
