@@ -21,10 +21,6 @@ La protección de los sistemas requiere una comprensión amplia de las estrategi
 
 En este curso recopilaremos las principales herramientas y técnicas aplicadas en cada uno de las fases del pentesting.
 
-
-![Maltego grafo]({{ page.assets_path}}/Maltego.png){: .shadow style="min-width: 70%;" }
-_Maltego grafo_
-
 # Índice y Estructura Principal
 - [Introducción](#introducción)
 - [Metodologías](#metodologías)
