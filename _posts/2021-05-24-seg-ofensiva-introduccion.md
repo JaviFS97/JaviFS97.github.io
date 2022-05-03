@@ -8,7 +8,13 @@ categories: [Ciberseguridad, Seguridad Ofensiva]
 tags: [Pentesting, OSSTMM]
 math: true
 mermaid: true
-assets_path: /assets/img/posts/20190806/readmeFiles
+assets_path: /assets/img/posts/20190806/ethical-hacking.jpg
+
+image:
+  src: /assets/img/posts/20210524/ethical-hacking.jpg
+  width: 1000   # in pixels
+  height: 400   # in pixels
+  alt: image alternative text
 
 ---
 La protección de los sistemas requiere una comprensión amplia de las estrategias de ataque y un conocimiento profundo de las tácticas, herramientas y motivaciones del ciberdelincuente.
@@ -54,3 +60,16 @@ Si se realizase la definición del alcance (nosotros no la vamos a realizar) hab
 * Análisis de las políticas de la organización que definen el uso que los usuarios hacen de los sistemas y de la infraestructura.
 * Procedimiento en caso de localizar una intrusión de un tercero.
 
+
+Lista de todos los apartados que componen el curso:
+<div class="posts">
+  <ol>
+  {% for post in site.categories['Seguridad Ofensiva'] reversed %}
+    <article class="post">
+      <li>
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      </li>
+    </article>
+  {% endfor %}
+  </ol>
+</div>
