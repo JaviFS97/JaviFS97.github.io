@@ -17,6 +17,8 @@ image:
   alt: image alternative text
 
 ---
+<meta name="image" property="og:image" content="/assets/img/posts/20210524/ethical-hacking.jpg">
+
 La protección de los sistemas requiere una comprensión amplia de las estrategias de ataque y un conocimiento profundo de las tácticas, herramientas y motivaciones del ciberdelincuente.
 
 En este curso recopilaremos las principales herramientas y técnicas aplicadas en cada uno de las fases del pentesting.
