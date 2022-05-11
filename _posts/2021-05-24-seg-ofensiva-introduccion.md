@@ -8,16 +8,16 @@ categories: [Ciberseguridad, Seguridad Ofensiva]
 tags: [Pentesting, OSSTMM]
 math: true
 mermaid: true
-assets_path: /assets/img/posts/20210525
+assets_path: /assets/img/posts/20210524
 
 image:
-  src: /assets/img/posts/20210524/ethical-hacking.jpg
+  src: /assets/img/posts/20210524/ethical-hacking.PNG
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: image alternative text
 
 ---
-<meta name="image" property="og:image" content="/assets/img/posts/20210524/ethical-hacking.jpg">
+<meta name="image" property="og:image" content="/assets/img/posts/20210524/ethical-hacking.PNG">
 
 La protección de los sistemas requiere una comprensión amplia de las estrategias de ataque y un conocimiento profundo de las tácticas, herramientas y motivaciones del ciberdelincuente.
 
@@ -29,6 +29,8 @@ En este curso recopilaremos las principales herramientas y técnicas aplicadas e
   + [Metodologías principales](#metodologías-principales)
   + [Metodología a seguir en el curso](#metodología-a-seguir-en-el-curso)
 - [Definición del alcance del hacking ético](#definición-del-alcance-del-hacking-ético)
+
+![]({{ page.assets_path}}/ethical-hacking.PNG){: .shadow style="max-width: 1px;" }
 
 
 # Introducción
