@@ -17,8 +17,6 @@ image:
   alt: image alternative text
 
 ---
-<meta name="image" property="og:image" content="/assets/img/posts/20210524/ethical-hacking.PNG">
-
 La protección de los sistemas requiere una comprensión amplia de las estrategias de ataque y un conocimiento profundo de las tácticas, herramientas y motivaciones del ciberdelincuente.
 
 En este curso recopilaremos las principales herramientas y técnicas aplicadas en cada uno de las fases del pentesting.
@@ -30,7 +28,7 @@ En este curso recopilaremos las principales herramientas y técnicas aplicadas e
   + [Metodología a seguir en el curso](#metodología-a-seguir-en-el-curso)
 - [Definición del alcance del hacking ético](#definición-del-alcance-del-hacking-ético)
 
-![]({{ page.assets_path}}/ethical-hacking.PNG){: .shadow style="max-width: 1px;" }
+![Metadata]({{ page.assets_path}}/ethical-hacking-METADATA.PNG){: .shadow style="max-width: 0; display: none;" }
 
 
 # Introducción
@@ -76,3 +74,5 @@ Lista de todos los apartados que componen el curso:
   {% endfor %}
   </ol>
 </div>
+
+
