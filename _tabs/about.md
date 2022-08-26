@@ -13,8 +13,3 @@ Los objetivos de este blog son simples:
 - Compartir conocimientos que puedan ayudar a otros.
 
 
-
-Si queréis saber algo más sobre mí (formación, experiencia, etc), aquí dejo mi CV.
-
-![Curriculum Vitae - Javier Fernández Santos]({{page.assets_path}}/CVimage.png){: .shadow style="min-width: 70%;" }
-_Curriculum Vitae - Javier Fernández Santos_
