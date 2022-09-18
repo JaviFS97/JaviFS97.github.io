@@ -20,7 +20,7 @@ timezone: Europe/Madrid
 
 title: JaviFS97                        # the main title
 
-tagline: '¡Bienvenido! Soy Javier, y en este blog recopilo mis investigaciones sobre ciberseguridad.' # it will display as the sub-title
+tagline: "Welcome! I'm javier, and in this blog is my personal space where I share articles on certain topics, research I do in my lab, CTF write-ups, and quick notes on things I want to remember. and quick notes on things I want to remember." # it will display as the sub-title
 # tagline2: '' 
 
 description: >-                        # used by seo meta and the atom feed
